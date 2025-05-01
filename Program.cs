@@ -4,10 +4,6 @@ using System;
 using System.Threading.Tasks;
 using System.Diagnostics;
 
-// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
-
-
 public class wallpaperChanger 
 {
     
@@ -21,18 +17,17 @@ public class wallpaperChanger
     private const int SPIF_SENDWININICHANGE = 0x02;
 
     static List<string> sprites = new List<string>();
-
     static int frameAmmount = 6572;
-
-    static string folderLoaction = @"";
+    static string folderLoaction = @""; //PUT PATH TO "frames" FOLDER HERE
 
     static void Main(string[] args)
     {
         PopulateList();
         Message("everything is ready","info");
         Play();
+        Message("clip has finnished playing","info");
     }
-    static void PopulateList()
+    static void PopulateList()  //fills the sprites list with paths to images
     {
         for(int i = 0; i < frameAmmount;i++)
         {
