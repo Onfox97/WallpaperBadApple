@@ -1,0 +1,14 @@
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\bin\Debug\net9.0\WallpaperChanger.exe
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\bin\Debug\net9.0\WallpaperChanger.deps.json
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\bin\Debug\net9.0\WallpaperChanger.runtimeconfig.json
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\bin\Debug\net9.0\WallpaperChanger.dll
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\bin\Debug\net9.0\WallpaperChanger.pdb
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.AssemblyInfoInputs.cache
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.AssemblyInfo.cs
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.csproj.CoreCompileInputs.cache
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.dll
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\refint\WallpaperChanger.dll
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.pdb
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\WallpaperChanger.genruntimeconfig.cache
+C:\Users\ondra\OneDrive\Documents\Projekty\C#\WallpaperChanger\obj\Debug\net9.0\ref\WallpaperChanger.dll
